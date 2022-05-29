@@ -5,7 +5,7 @@
     <img alt="typingcat" src="images/typingcat.webp" width="50"> 
 </h1>
     
-<h2><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Graduate.;A+Full-Stack+Developer.;A+Budding+Machine+Learning+Engineer.&width=500&height=50&color=93e6f5" align="center"></a></h2>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Graduate.;A+Full-Stack+Developer.;A+Budding+Machine+Learning+Engineer.&width=1000&height=50&color=93e6f5" align="center"></a>
 
 <img src="images/Banner5.jpg" height=250 width=100%>
 <hr/>
