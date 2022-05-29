@@ -10,7 +10,7 @@
 <img src="images/Banner5.jpg" height=250 width=100%>
 <hr/>
 <h3 >MY SKILLS</h3>
-<blockquote>
+
 <div><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div> 
 <br/>
 <div>
@@ -22,7 +22,6 @@
 <div><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m4KqDleG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" width="108" height="28"> <img alt="mysql" src="https://res.cloudinary.com/practicaldev/image/fetch/s--64SDqzGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" loading="lazy" width="88" height="28"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EnlR3l1O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Oracle-F80000%3Fstyle%3Dfor-the-badge%26logo%3DOracle%26logoColor%3Dwhite" width="96" height="28"></div>
 <br/>
 <div align="justifycenter"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--891ylAtK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" loading="lazy" width="132" height="28"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JJmfAMOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" loading="lazy" width="170" height="28"></div>
-</blockquote>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAK191&layout=compact&langs_count=7&theme=dark"/>
 
