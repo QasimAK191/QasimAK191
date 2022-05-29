@@ -25,9 +25,9 @@
 <div align="justifycenter"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--891ylAtK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" loading="lazy" width="132" height="28"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JJmfAMOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" loading="lazy" width="170" height="28"></div>
 
 <h3>WHAT I'M UP TO</h3>
-<blockquote>Currently I'm learning about Human-Computer Interaction principles and brainstorming an eye-tracking application to be used to control a mouse for the use case that a disabled person might be using it. I'm using <a href=https://www.youtube.com/watch?v=ZpKsKwiroGs>this video</a> as inspiration <br/>
+<blockquote>⑆Currently I'm learning about Human-Computer Interaction principles and brainstorming an eye-tracking application to be used to control a mouse for the use case that a disabled person might be using it. I'm using <a href=https://www.youtube.com/watch?v=ZpKsKwiroGs>this video</a> as inspiration <br/>
 
-I'm also trying to write a "stats-predictor" for basketball in JS to predict a season for a player (a la Basketball Reference's season-asjusted predictions, but with different stats as inputs and a different fit equation)</blockquote> <br/>
+⑆I'm also trying to write a "stats-predictor" for basketball in JS to predict a season for a player (a la Basketball Reference's season-asjusted predictions, but with different stats as inputs and a different fit equation)</blockquote> <br/>
 
 <h3 >MY GOALS</h3>
 <blockquote>✪ Become a Dev-Ops Engineer <br/>
