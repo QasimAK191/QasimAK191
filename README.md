@@ -1,9 +1,9 @@
-<h3 align="center">
+<h1 align="center">
     Hi, I'm
     <img alt="popupcat" src="images/giphy.webp" width="50">
     Mohammed Qasim Khan
     <img alt="typingcat" src="images/typingcat.webp" width="50"> 
-</h3>
+</h1>
     
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Graduate.;A+Full-Stack+Developer.;A+Budding+Machine+Learning+Engineer.&width=500&height=50&color=E00748" align="center"></a>
 
