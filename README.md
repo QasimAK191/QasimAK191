@@ -36,4 +36,6 @@
 ✪ Get a Masters in Data Science & Machine Learning <br/>
 ✪ Develop an application/software to assist movement-impaired (hands or paralysis) people in using computers </blockquote>
 
-<h3>MY PROJECTS https://giphy.com/stickers/dj-mixer-pioneer-hJl9v892gjwLEdHoZv</h3>
+<h3>MY PROJECTS</h3>
+
+<img src="https://media4.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif">
