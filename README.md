@@ -9,7 +9,7 @@
 
 <img src="images/Banner5.jpg" height=250 width=100%>
 
-“Hard work beats talent when talent doesn't work hard.”
+<h5> ***“Hard work beats talent when talent doesn't work hard.”*** </h5>
 <hr/>
 <h3 >MY SKILLS</h3>
 <div><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div> 
