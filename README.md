@@ -38,4 +38,4 @@
 
 <h3>MY PROJECTS</h3>
 
-<img src="https://media4.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif">
+<img src="https://media4.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" height=50 width=50>
