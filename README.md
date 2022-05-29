@@ -28,7 +28,7 @@
 
 <h3>WHAT I'M UP TO</h3>
 <blockquote><b>⑆</b> Currently I'm learning about Human-Computer Interaction principles and brainstorming an eye-tracking application to be used to control a mouse for the use case that a disabled person might be using it. I'm using <a href=https://www.youtube.com/watch?v=ZpKsKwiroGs>this video</a> as inspiration <br/>
-
+<br/>
 <b>⑆</b> I'm also trying to write a "stats-predictor" for basketball in JS to predict a season for a player (a la Basketball Reference's season-asjusted predictions, but with different stats as inputs and a different fit equation) <br/></blockquote>
 
 <h3 >MY GOALS</h3>
