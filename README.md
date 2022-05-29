@@ -36,4 +36,4 @@
 ✪ Get a Masters in Data Science & Machine Learning <br/>
 ✪ Develop an application/software to assist movement-impaired (hands or paralysis) people in using computers </blockquote>
 
-<h3>MY PROJECTS <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Circle_arrow_down_font_awesome.svg/1200px-Circle_arrow_down_font_awesome.svg.png](https://media4.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif)" width=30 height=30/></h3>
+<h3>MY PROJECTS <img src="https://giphy.com/stickers/dj-mixer-pioneer-hJl9v892gjwLEdHoZv" width=30 height=30/></h3>
