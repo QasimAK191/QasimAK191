@@ -30,8 +30,8 @@
 I'm also trying to write a "stats-predictor" for basketball in JS to predict a season for a player (a la Basketball Reference's season-asjusted predictions, but with different stats as inputs and a different fit equation)</blockquote> <br/>
 
 <h3 >MY GOALS</h3>
-<blockquote>- Become a Dev-Ops Engineer <br/>
-- Get a Masters in Data Science & Machine Learning <br/>
-- Develop an application/software to assist movement-impaired (hands or paralysis) people in using computers <br/></blockquote>
+<blockquote>✪ Become a Dev-Ops Engineer <br/>
+✪ Get a Masters in Data Science & Machine Learning <br/>
+✪ Develop an application/software to assist movement-impaired (hands or paralysis) people in using computers </blockquote><br/>
 
 <h3>MY PROJECTS</h3>
