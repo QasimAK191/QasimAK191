@@ -28,8 +28,8 @@
 
 <h3>WHAT I'M UP TO</h3>
 <blockquote><b>⑆</b> Currently I'm learning about Human-Computer Interaction principles and brainstorming an eye-tracking application to be used to control a mouse for the use case that a disabled person might be using it. I'm using <a href=https://www.youtube.com/watch?v=ZpKsKwiroGs>this video</a> as inspiration <br/>
-<br/></blockquote>
-
+</blockquote>
+<br/>
 <h3 >MY GOALS</h3>
 <blockquote>✪ Become a Dev-Ops Engineer <br/>
 ✪ Get a Masters in Data Science & Machine Learning <br/>
